@@ -67,6 +67,7 @@ export default function App() {
               component={DrawerNavigator}
               options={{
                 headerShown: false,
+                title: "Back",
               }}
             />
             <Stack.Screen
